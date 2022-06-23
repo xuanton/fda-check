@@ -2,7 +2,7 @@
 
 Python script to check if FDA is granted for F-Secure on MacOS.
 
-This repository contains a test malware file to so use this at your own risk.
+This repository contains a test malware file so use this at your own risk.
 
 
 ## Installation
